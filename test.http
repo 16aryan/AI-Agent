@@ -1,0 +1,7 @@
+### Test the /chat endpoint
+POST http://127.0.0.1:8000/chat
+Content-Type: application/json
+
+{
+  "query": "What is the meaning of life?"
+}
