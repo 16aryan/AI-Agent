@@ -1,5 +1,5 @@
 ### Test the /chat endpoint
-POST http://127.0.0.1:8000/chat
+POST http://127.x.x.x:xxxx/chat
 Content-Type: application/json
 
 {
